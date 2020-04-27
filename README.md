@@ -1,10 +1,3 @@
-"# Tusbol-Three"<br>
-=========================================
- * Name:    Dor Three beta
- * Author:  Dezek
- * Github: https://github.com/jono132
- * Created:  31/08/2018<br><br>
-
-========================================
-Jangan Bar Bar bro :)
-========================================
+# Bonstri
+REDEEM MANUAL DULU VOCNYA KLO BLUM PERNAH REDEEM
+KLO UDAH PERNAH TINGGAL GAS
