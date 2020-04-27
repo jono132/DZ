@@ -1,11 +1,10 @@
-"# Tembak-Three"<br>
+"# Tusbol-Three"<br>
 =========================================
  * Name:    Dor Three beta
- * Author:  Satria Wibawa
- * FB: https://www.facebook.com/HTTP200K
- * Github: https://github.com/satriawibawa
+ * Author:  Dezek
+ * Github: https://github.com/jono132
  * Created:  31/08/2018<br><br>
 
 ========================================
-Link Dor: http://satriawibawa.rocketnesia.host/3/.
+Jangan Bar Bar bro :)
 ========================================
